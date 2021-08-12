@@ -1,11 +1,11 @@
 # FVS | Funk- und Verwaltungssoftwaren
 
-###Über uns
+### Über uns
 
 Wir sind ein noch kleines Projekt, was euch Programme für euer Funkspiel, RolePlay oder ähnliches zur Verfügung stellt.
 Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euch anbieten können!
 
-###Das Team dahinter
+### Das Team dahinter
 
 | Mitglied | Tätigkeitsbereich | Zeitspanne |
 |----------|-------------------|----------------|
