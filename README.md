@@ -1,5 +1,3 @@
-<p align="center"><img src="FIV-LOGO.png" height="200" width="200"></p> 󠂪󠂪
-
 # FVS | Funk- und Verwaltungssoftwaren
 
 ### Über uns
