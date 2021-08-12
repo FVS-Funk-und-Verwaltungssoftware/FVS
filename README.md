@@ -2,6 +2,8 @@
 
 # FVS | Funk- und Verwaltungssoftwaren
 
+## Das Projekt
+
 ### Über uns
 
 Wir sind ein noch kleines Projekt, was euch Programme für euer Funkspiel, RolePlay oder ähnliches zur Verfügung stellt.
@@ -23,9 +25,8 @@ Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euc
 [nicolasdiscord]: https://discord.com/users/421786381547995136
 [yannisdiscord]: https://discord.com/users/224302213860687873
 
-### Unsere Produkte
+## Unsere Produkte
 
-<p align="center">
-| <img src="ELDIS-LOGO.png" height="200" width="200">| <img src="FIVS-LOGO.png" height="200" width="200"> |
-|----------------------------------------------------|-----------------------------------------------------|
-| <b> Elektronisches Leitstellen Dispositions- und Informationssystem </b> | <b> Feuerwehr Informations- und Verwaltungssystem </b> |
+| <img src="ELDIS-LOGO.png" height="200" width="200"> | <img src="FIVS-LOGO.png" height="200" width="200"> |
+|-----------------------------------------------------|----------------------------------------------------|
+| Elektronisches Leitstellen <br> Dispositions- und Informationssystem | Feuerwehr Informations- und Verwaltungssystem |
