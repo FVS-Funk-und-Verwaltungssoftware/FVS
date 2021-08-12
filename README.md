@@ -24,9 +24,9 @@ Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euc
 [sturmidiscord]: https://discord.com/users/231878626226864128
 [nicolasdiscord]: https://discord.com/users/421786381547995136
 [yannisdiscord]: https://discord.com/users/224302213860687873
-<div align="center">
-## Unsere Produkte
 
+## Unsere Produkte
+<div align="center">
 
 | <img src="ELDIS-LOGO.png" height="200" width="200"> | <img src="FIVS-LOGO.png" height="200" width="200"> |
 |-----------------------------------------------------|----------------------------------------------------|
