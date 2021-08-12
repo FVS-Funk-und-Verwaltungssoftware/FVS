@@ -28,6 +28,6 @@ Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euc
 ## Unsere Produkte
 
 | <img src="ELDIS-LOGO.png" height="200" width="200"> | <img src="FIVS-LOGO.png" height="200" width="200"> |
-|:-----------------------------------------------------:|:----------------------------------------------------:|
+|-----------------------------------------------------|----------------------------------------------------|
 | Elektronisches Leitstellen <br> Dispositions- und Informationssystem | Feuerwehr Informations- und Verwaltungssystem |
   
