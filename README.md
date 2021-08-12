@@ -24,4 +24,6 @@ Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euc
 [yannisdiscord]: https://discord.com/users/224302213860687873
 
 
-<img src="FIV-LOGO.png" height="200" width="200">
+| <img src="FIVS-LOGO.png" height="200" width="200"> | <img src="ELDIS-LOGO.png" height="200" width="200"> |
+|----------------------------------------------------|-----------------------------------------------------|
+|FIVS | ELDIS |
