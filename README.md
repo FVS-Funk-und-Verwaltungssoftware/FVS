@@ -23,7 +23,9 @@ Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euc
 [nicolasdiscord]: https://discord.com/users/421786381547995136
 [yannisdiscord]: https://discord.com/users/224302213860687873
 
+### Unsere Produkte
 
-| <img src="FIVS-LOGO.png" height="200" width="200"> | <img src="ELDIS-LOGO.png" height="200" width="200"> |
+<p align="center">
+| <img src="ELDIS-LOGO.png" height="200" width="200">| <img src="FIVS-LOGO.png" height="200" width="200"> |
 |----------------------------------------------------|-----------------------------------------------------|
-|FIVS | ELDIS |
+| <b> Elektronisches Leitstellen Dispositions- und Informationssystem </b> | <b> Feuerwehr Informations- und Verwaltungssystem </b> |
