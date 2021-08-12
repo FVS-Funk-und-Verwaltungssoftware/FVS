@@ -10,7 +10,7 @@ Wir sind ein noch kleines Projekt, was euch Programme für euer Funkspiel, RoleP
 Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euch anbieten können!
 
 ### Das Team dahinter
-<div align="center">
+
 | Mitglied | Tätigkeitsbereich | Zeitspanne |
 |----------|-------------------|----------------|
 | [Oliver][oliverdiscord]  | Founder & Head of Development | seit 12.08.2021 |
@@ -24,7 +24,7 @@ Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euc
 [sturmidiscord]: https://discord.com/users/231878626226864128
 [nicolasdiscord]: https://discord.com/users/421786381547995136
 [yannisdiscord]: https://discord.com/users/224302213860687873
-</div>
+
 ## Unsere Produkte
 <div align="center">
 
