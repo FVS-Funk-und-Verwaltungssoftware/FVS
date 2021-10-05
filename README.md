@@ -1,4 +1,4 @@
-<p align="center"><img src="FIV-LOGO.png" height="200" width="200"></p> 󠂪󠂪
+<p align="center"><img src="FVS-LOGO.png" height="200" width="200"></p> 󠂪󠂪
 
 # <p align="center">FVS | Funk- und Verwaltungssoftwaren </p>
 
@@ -26,7 +26,7 @@ Noch sind wir im Aufbau, aber ganz bald werden wir unser erstes Produkt für euc
 ## Unsere Produkte
 <div align="center">
 
-| <img src="ELDIS-LOGO.png" height="200" width="200"> | <img src="FIVS-LOGO.png" height="200" width="200"> |
-|-----------------------------------------------------|----------------------------------------------------|
-| Elektronisches Leitstellen <br> Dispositions- und Informationssystem | Feuerwehr Informations- und Verwaltungssystem |
+| <img src="ELDIS-LOGO.png" height="200" width="200"> | <img src="FIVS-LOGO.png" height="200" width="200"> | <img src="FVS-SOON.png" height="200" width="200"> |
+|-----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| Elektronisches Leitstellen <br> Dispositions- und Informationssystem | Feuerwehr Informations- <br> und Verwaltungssystem | coming soon... |
   </div>
